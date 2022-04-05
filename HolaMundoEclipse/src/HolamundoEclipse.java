@@ -8,6 +8,7 @@ public class HolamundoEclipse {
 			
 	        
 	         System.out.println("Hola Mundo eclipse-cambio desde Eclipse 1");
+	         System.out.println("Hola Mundo eclipse-cambio desde Eclipse 2");
 	         
 
 	}
