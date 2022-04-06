@@ -16,6 +16,7 @@ public class HolaMundoDAM {
     public static void main(String[] args) {
         // TODO code application logic here
          System.out.println("Hola Mundo3 de GitHub desde Netbeans");
+         System.out.println("Hola Mundo3 de GitHub desde Netbeans2");
     }
     
 }
